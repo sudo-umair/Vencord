@@ -1,0 +1,3 @@
+[submodule "src/userplugins/completeDiscordQuest"]
+	path = src/userplugins/completeDiscordQuest
+	url = https://github.com/nicola02nb/completeDiscordQuest
